@@ -1,0 +1,12 @@
+/* Custom CSS */
+h1, h2, h3, h4 {
+    font-family: 'Overpass', sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+#shop, #about, #contact {
+    margin-bottom: 50px;
+}
